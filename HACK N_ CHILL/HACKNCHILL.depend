@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1555759021 source:c:\users\jenkka\documents\iteso\hacknchill\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1555995151 source:c:\users\jenkka\documents\development\hacknchill\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
